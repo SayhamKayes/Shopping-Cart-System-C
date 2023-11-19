@@ -1,0 +1,12 @@
+
+Name: t-shirt
+Price: 120.00
+Quantity: 12
+
+Name: Shirt
+Price: 500.00
+Quantity: 18
+
+Name: Jeans
+Price: 500.00
+Quantity: 16

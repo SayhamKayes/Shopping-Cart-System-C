@@ -1,0 +1,4 @@
+Product Name: t-shirt, Price: 120.00, Quantity Sold: 1
+Product Name: Shirt, Price: 500.00, Quantity Sold: 2
+Product Name: Shirt, Price: 500.00, Quantity Sold: 1
+Product Name: Jeans, Price: 500.00, Quantity Sold: 1
